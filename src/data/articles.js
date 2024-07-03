@@ -92,7 +92,7 @@ function article_1() {
 						>
 							Springer
 						</a>
-						having a decent H-Index and Impact Factor.
+						 having a decent H-Index and Impact Factor.
 					</div>
 				</div>
 			</React.Fragment>
