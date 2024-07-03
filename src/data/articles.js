@@ -51,9 +51,9 @@ function article_3() {
 
 function article_1() {
 	return {
-		date: "7 May 2024",
+		date: "2 July 2024",
 		title: "A Study on Different Parameters Affecting Overall Cost of Global Content Distribution Services in Metropolitan Cloud Network (Under Conference Proceedings) ",
-		description: `I'm happy to share that, another paper of mine has been accepted by the renowned and blind peer-reviewed journal where each paper has been reviewed by three experts named "24th International Conference on Computational Science and Its Applications (ICCSA-2024)`,
+		description: `I'm happy to share that, another paper of mine has been published by the renowned and blind peer-reviewed journal where each paper has been reviewed by three experts named "24th International Conference on Computational Science and Its Applications (ICCSA-2024)`,
 		keywords: ["The Benefits of Cloud Computing", "Rajib Chandra Ghosh"],
 		style: `
 				.article-content {
@@ -72,7 +72,7 @@ function article_1() {
 				<div className="article-content">
 					<div className="paragraph">
 						I'm happy to share that, another paper of mine has been
-						accepted by the renowned and blind peer-reviewed journal
+						published by the renowned and blind peer-reviewed journal
 						where each paper has been reviewed by three experts
 						named "24th International Conference on Computational
 						Science and Its Applications (ICCSA-2024)". The paper is
@@ -82,11 +82,11 @@ function article_1() {
 						optimization algorithm to optimize the cloud network's
 						delivery cost traffic (data) in the cloud network and
 						analyzing different parameters that have a significant
-						impact on the overall cost of the network.The paper is
-						planned to be published in Lecture Notes in Computer
+						impact on the overall cost of the network. The paper has been 
+						published in Lecture Notes in Computer
 						Science (LNCS){" "}
 						<a
-							href="https://www.springer.com/gp/computer-science/lncs"
+							href="https://link.springer.com/chapter/10.1007/978-3-031-64605-8_4"
 							target="_blank"
 							rel="noreferrer"
 						>
