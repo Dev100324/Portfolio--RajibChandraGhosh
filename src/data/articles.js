@@ -52,7 +52,7 @@ function article_3() {
 function article_1() {
 	return {
 		date: "2 July 2024",
-		title: "A Study on Different Parameters Affecting Overall Cost of Global Content Distribution Services in Metropolitan Cloud Network (Under Conference Proceedings) ",
+		title: "A Study on Different Parameters Affecting Overall Cost of Global Content Distribution Services in Metropolitan Cloud Network",
 		description: `I'm happy to share that, another paper of mine has been published by the renowned and blind peer-reviewed journal where each paper has been reviewed by three experts named "24th International Conference on Computational Science and Its Applications (ICCSA-2024)`,
 		keywords: ["The Benefits of Cloud Computing", "Rajib Chandra Ghosh"],
 		style: `
