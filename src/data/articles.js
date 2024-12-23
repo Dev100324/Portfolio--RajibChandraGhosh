@@ -102,9 +102,9 @@ function article_1() {
 
 function article_2() {
 	return {
-		date: "22 Nov 2023",
-		title: "An Anti-Churn Model for Real-Time Business (Under Conference Proceedings)",
-		description: `I'm happy to share that, another paper of mine has been accepted and is now Under Conference Proceedings`,
+		date: "23 Dec 2024",
+		title: "An Anti-Churn Model for Real-Time Business",
+		description: `I'm happy to share that, another paper of mine has been accepted by the International Conference on Data Engineering and Machine Intelligence (ICDEMI 2023)`,
 		style: `
 		.article-content {
 			display: flex;
@@ -122,12 +122,9 @@ function article_2() {
 			<React.Fragment>
 				<div className="article-content">
 					<div className="paragraph">
-						Excited to share the news of my recent paper, "An
-						Anti-Churn Model for Real-Time Business," is Under
-						Conference Proceedings in International Conference on
-						Data Engineering and Machine Intelligence(2023-ICDEMI){" "}
+						Excited to share the news that my recent paper, 'An Anti-Churn Model for Real-Time Business,' has been published in the Conference Proceedings of the International Conference on Data Engineering and Machine Intelligence (2023-ICDEMI){" "}
 						<a
-							href="https://easychair.org/cfp/icdemi2023?spy=626122"
+							href="https://link.springer.com/chapter/10.1007/978-981-97-7616-0_1"
 							target="_blank"
 							rel="noreferrer"
 						>
