@@ -12,9 +12,9 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Data Science & Full-Stack Web Developer, and Amateur Astronaut.",
+		title: "Data Science & Amateur Astronaut.",
 		description:
-			"I am a Data Scientist & a full-stack web developer with expertise in Node.js. I have experience building scalable, secure, and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and continuously learning new skills. My passion lies in creating high-quality code that adheres to best practices and industry standards. Additionally, as an amateur astronaut, I am fascinated by space exploration and eagerly engage in related activities and projects. I am always seeking new challenges and opportunities to grow as a data scientist and explore the intersection of technology and space.",
+			"I am a Data Scientist with a strong foundation in solving complex problems and a continuous drive to learn new skills. I have experience building scalable, secure, and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and continuously learning new skills. My passion lies in creating high-quality code that adheres to best practices and industry standards. Additionally, as an amateur astronaut, I am fascinated by space exploration and eagerly engage in related activities and projects. I am always seeking new challenges and opportunities to grow as a data scientist and explore the intersection of technology and space.",
 	},
 
 	about: {
