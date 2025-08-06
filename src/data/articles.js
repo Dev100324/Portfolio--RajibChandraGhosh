@@ -1,6 +1,6 @@
 import React from "react";
 
-function article_5() {
+function article_1() {
 	return {
 		date: "30 May 2025",
 		title: "A Robust Conformal Framework for IoT-Based Predictive Maintenance",
@@ -48,56 +48,7 @@ function article_5() {
 
 
 
-function article_3() {
-	return {
-		date: "19 Feb 2024",
-		title: "Multivariate Time Series Forecasting to Forecast Weight Dynamics",
-		description:
-			"I'm happy to share that, recently one of our works have been published by IEEE Xplore.",
-		style: `
-		.article-content {
-			display: flex;
-			flex-direction: column;
-			align-items: center;
-		}
-
-		.randImage {
-			align-self: center;
-			outline: 2px solid red;
-		}
-		`,
-		keywords: [
-			"Artificial Intelligence",
-			"Time Series",
-			"Rajib Chandra Ghosh",
-		],
-		body: (
-			<React.Fragment>
-				<div className="article-content">
-					<div className="paragraph">
-						Excited to share the news of my recent paper,
-						"Multivariate Time Series Forecasting to Forecast Weight
-						Dynamics," now published in 2023 International
-						Conference on Computational Intelligence, Networks and
-						Security (ICCINS){" "}
-						<a
-							href="https://ieeexplore.ieee.org/document/10434951"
-							target="_blank"
-							rel="noreferrer"
-						>
-							IEEE
-						</a>
-						. Delving into insect colony dynamics, we explore the
-						prediction of colony weight—a key factor influencing
-						insect growth and health.
-					</div>
-				</div>
-			</React.Fragment>
-		),
-	};
-}
-
-function article_1() {
+function article_2() {
 	return {
 		date: "2 July 2024",
 		title: "A Study on Different Parameters Affecting Overall Cost of Global Content Distribution Services in Metropolitan Cloud Network",
@@ -148,7 +99,7 @@ function article_1() {
 	};
 }
 
-function article_2() {
+function article_3() {
 	return {
 		date: "23 Dec 2024",
 		title: "An Anti-Churn Model for Real-Time Business",
@@ -187,6 +138,57 @@ function article_2() {
 }
 
 function article_4() {
+	return {
+		date: "19 Feb 2024",
+		title: "Multivariate Time Series Forecasting to Forecast Weight Dynamics",
+		description:
+			"I'm happy to share that, recently one of our works have been published by IEEE Xplore.",
+		style: `
+		.article-content {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+		}
+
+		.randImage {
+			align-self: center;
+			outline: 2px solid red;
+		}
+		`,
+		keywords: [
+			"Artificial Intelligence",
+			"Time Series",
+			"Rajib Chandra Ghosh",
+		],
+		body: (
+			<React.Fragment>
+				<div className="article-content">
+					<div className="paragraph">
+						Excited to share the news of my recent paper,
+						"Multivariate Time Series Forecasting to Forecast Weight
+						Dynamics," now published in 2023 International
+						Conference on Computational Intelligence, Networks and
+						Security (ICCINS){" "}
+						<a
+							href="https://ieeexplore.ieee.org/document/10434951"
+							target="_blank"
+							rel="noreferrer"
+						>
+							IEEE
+						</a>
+						. Delving into insect colony dynamics, we explore the
+						prediction of colony weight—a key factor influencing
+						insect growth and health.
+					</div>
+				</div>
+			</React.Fragment>
+		),
+	};
+}
+
+
+
+function article_5() {
 	return {
 		date: "4 May 2021",
 		title: "Prediction Of Medicine Consumption Using Machine Learning",
