@@ -1,5 +1,53 @@
 import React from "react";
 
+function article_5() {
+	return {
+		date: "30 May 2025",
+		title: "A Robust Conformal Framework for IoT-Based Predictive Maintenance",
+		description:
+			"I'm happy to share that, recently one of our works have been published by MDPI journal.",
+		style: `
+		.article-content {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+		}
+
+		.randImage {
+			align-self: center;
+			outline: 2px solid red;
+		}
+		`,
+		keywords: [
+			"Artificial Intelligence",
+			"IoT",
+			"Rajib Chandra Ghosh",
+		],
+		body: (
+			<React.Fragment>
+				<div className="article-content">
+					<div className="paragraph">
+						Excited to share the news of my recent paper,
+						"A Robust Conformal Framework for IoT-Based Predictive 
+						Maintenance," now published in MDPI journal Future Internet{" "}
+						<a
+							href="https://www.mdpi.com/1999-5903/17/6/244"
+							target="_blank"
+							rel="noreferrer"
+						>
+							MDPI Journal
+						</a>
+						. Having a decent H-Index and Impact Factor.
+					</div>
+				</div>
+			</React.Fragment>
+		),
+	};
+}
+
+
+
+
 function article_3() {
 	return {
 		date: "19 Feb 2024",
@@ -180,6 +228,6 @@ function article_4() {
 	};
 }
 
-const myArticles = [article_1, article_2, article_3, article_4];
+const myArticles = [article_1, article_2, article_3, article_4, article_5];
 
 export default myArticles;
