@@ -61,15 +61,6 @@ const INFO = {
 			natural language generation.`,
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 		},
-
-		{
-			title: "Consultancy Website",
-			description:
-				" Designed and constructed a comprehensive consultancy website utilizing HTML, CSS, and JavaScript. Implemented a user-friendly inquiry form, allowing seamless user interaction to submit questions directly through email",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-			linkText: "View Project",
-			link: "https://rajib123412.000webhostapp.com/",
-		},
 		{
 			title: "YouTube (Clone)",
 			description:
